@@ -16,6 +16,7 @@ A powerful **Flask + Bootstrap web application** for scraping websites, fetching
   - Timeout control  
   - POST method toggle  
   - Unique results & whitespace cleaning  
+HEAD
 
 ## 📸 Screenshots
 
@@ -25,11 +26,19 @@ A powerful **Flask + Bootstrap web application** for scraping websites, fetching
 ### Results Page
 ![Results Dark](screenshots/results-dark.png)
  
+aadeaf3 (Clean README with screenshots and setup guide)
 
+## 📸 Screenshots  
+
+### Homepage  
+![Homepage](screenshots/homepage.png)  
+
+### Results Page (Dark Theme)  
+![Results Dark](screenshots/results-dark.png)  
 
 ## 🚀 Quick Start  
 
 ### 1. Clone repo  
 ```bash
-git clone https://github.com/your-username/enhanced-web-scraper.git
+git clone https://github.com/developer-AJabbar/enhanced-web-scraper.git
 cd enhanced-web-scraper
