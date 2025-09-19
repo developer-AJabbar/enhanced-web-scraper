@@ -28,13 +28,7 @@ HEAD
  
 aadeaf3 (Clean README with screenshots and setup guide)
 
-## 📸 Screenshots  
 
-### Homepage  
-![Homepage](screenshots/homepage.png)  
-
-### Results Page (Dark Theme)  
-![Results Dark](screenshots/results-dark.png)  
 
 ## 🚀 Quick Start  
 
