@@ -42,3 +42,8 @@ aadeaf3 (Clean README with screenshots and setup guide)
 ```bash
 git clone https://github.com/developer-AJabbar/enhanced-web-scraper.git
 cd enhanced-web-scraper
+
+## 📜 License  
+This project is **proprietary and confidential**.  
+You may not use, copy, modify, or distribute this code without prior written consent from the author.  
+
